@@ -1,0 +1,14 @@
+!.gitignore
+!.Rbuildignore
+.Rproj.user
+.Rhistory
+.RData
+raw/Norwegian citizen panel - wave 1-7 EN.sav
+.old/
+output/v1/*
+output/v2/*
+*~
+*#
+*.log
+*.aux
+*.gz
